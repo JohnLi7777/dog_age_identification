@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="lsx">
+    <file>lsx.jpg</file>
+  </qresource>
+</RCC>
